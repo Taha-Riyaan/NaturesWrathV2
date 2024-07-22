@@ -23,7 +23,6 @@ const CollapseCard = ({ name, province, type, year, humanCasulties, general }) =
             {expanded && (
                 <>
                 <hr />
-                <img src= {temp} alt="Card" className="Major-card-image" />
                 <div className="Major-card-extra">
                     <p>Province: {province} <br /> Human Casulties: {humanCasulties}</p>
                     <p>{general}</p>
