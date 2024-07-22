@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NaturesWrathV2/static/css/main.c1d825c7.css",
+    "main.js": "/NaturesWrathV2/static/js/main.ad701e3c.js",
+    "static/js/453.86d72dba.chunk.js": "/NaturesWrathV2/static/js/453.86d72dba.chunk.js",
+    "static/media/tornado.png": "/NaturesWrathV2/static/media/tornado.d24cc68e8a42b4a9cbea.png",
+    "static/media/flood.png": "/NaturesWrathV2/static/media/flood.9b6ab76d047408a693fb.png",
+    "static/media/wildfire.png": "/NaturesWrathV2/static/media/wildfire.6344d953de6419ec8bae.png",
+    "static/media/temp.jpg": "/NaturesWrathV2/static/media/temp.14725f98efbd28b29134.jpg",
+    "index.html": "/NaturesWrathV2/index.html",
+    "main.c1d825c7.css.map": "/NaturesWrathV2/static/css/main.c1d825c7.css.map",
+    "main.ad701e3c.js.map": "/NaturesWrathV2/static/js/main.ad701e3c.js.map",
+    "453.86d72dba.chunk.js.map": "/NaturesWrathV2/static/js/453.86d72dba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d825c7.css",
+    "static/js/main.ad701e3c.js"
+  ]
+}
