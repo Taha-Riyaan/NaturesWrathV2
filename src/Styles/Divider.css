@@ -1,0 +1,11 @@
+.divider-hr{
+    width: 80em;
+    height: 3px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: grey;
+    display: block;
+    opacity: .30;
+    box-shadow: 2px 2px 4px grey;
+    
+}

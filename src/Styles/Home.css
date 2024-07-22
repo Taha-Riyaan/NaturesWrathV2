@@ -1,0 +1,22 @@
+.home-button {
+    padding: 10px 20px;
+    border: 1px solid #4a6741;
+    border-radius: 4px;
+    background-color: #4a6741;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s;
+    margin: 10px;
+    margin-top: 0;
+}
+
+.home-button:hover {
+    background-color: #5a7851;
+    border-color: #5a7851;
+}
+
+.gome-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(74, 103, 65, 0.5);
+}

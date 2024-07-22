@@ -1,0 +1,16 @@
+.timelineContainer {
+    display: grid;
+    background-color: white;
+    height: 100vh;
+    width: 1000px;
+    border-radius: 10px;
+    flex: 1;
+
+}
+
+.timelineTitle {
+    color: #3b602f;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+

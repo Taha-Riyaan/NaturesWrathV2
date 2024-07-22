@@ -1,0 +1,16 @@
+.infodisc li {
+    padding: 5px;
+}
+
+.infodisc p {
+    font-size: medium;
+}
+
+.infodisc {
+    width: 1100px;
+    height: fit-content;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    word-wrap: break-word;
+}

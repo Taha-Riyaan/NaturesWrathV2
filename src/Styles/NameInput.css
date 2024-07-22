@@ -1,0 +1,22 @@
+.name-input-container {
+    width: 100%; /* Adjust if needed */
+    margin: 20px 0;
+    text-align: center;
+}
+
+.name-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    cursor: text;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.name-input:focus {
+    border-color: #4a6741;
+    outline: none;
+}
+

@@ -1,0 +1,46 @@
+.year-select-container {
+    position: relative;
+    width: 200px; /* Adjust width as needed */
+}
+
+.year-select-input,
+.year-select-dropdown {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.year-select-input {
+    border-color: #ccc; /* Default border color */
+}
+
+.year-select-dropdown {
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.year-select-dropdown.open {
+    display: block; /* Show dropdown when open */
+}
+
+.year-select-dropdown option {
+    padding: 10px;
+}
+
+.year-select-input:focus {
+    border-color: #4a6741;
+    outline: none;
+}
+
+.year-select-dropdown:focus {
+    border-color: #4a6741;
+    outline: none;
+}

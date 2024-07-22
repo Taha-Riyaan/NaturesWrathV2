@@ -1,0 +1,49 @@
+.Major-card {
+    width: 400px; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    cursor: pointer; 
+    justify-content: center;
+    margin: 20px;
+    height: fit-content;
+}
+
+.Major-card:hover {
+    background-color: #f5f5f5; 
+}
+
+
+.Major-card-image {
+    width: 95%;
+    margin: 5px;
+    height: auto; 
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.Major-card-title {
+    padding: 10px;
+    text-align: center;
+}
+
+.Major-hr {
+    margin: 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+.Major-card-extra {
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.Major-card p {
+    font-size: larger;
+    margin: 5px;
+}

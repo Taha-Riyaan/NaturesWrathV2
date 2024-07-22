@@ -1,0 +1,8 @@
+.info-container {
+    word-wrap: break-word;
+    background-color: white;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: 3em;
+    padding: 1em;
+}
